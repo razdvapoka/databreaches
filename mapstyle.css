@@ -1,0 +1,17 @@
+body {
+    max-width: 80%;
+    margin: 0 auto;
+    padding-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.item {
+    width: 38.4px;
+    height: 38.4px;
+    border:2px solid black;
+}
