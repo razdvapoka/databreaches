@@ -11,20 +11,20 @@ body {
 }
 
 .box {
-    margin-top: 3vw;
+    /* margin-top: 3vw; */
     display: grid;
     grid-template-columns: repeat(50, 1fr);
     grid-template-rows: repeat(28, 1fr);
-    width: 80vw;
-    height: calc(5 / 6 * 80vw);
+    width: 1920px;
+    height: 1080px;
     }
 
     
 .item {
-    border: 1px solid black;
+    /* border: solid 2px black; */
     background-position: center;
-    background-size: contain;
-    background-repeat: no-repeat;
+    background-size: cover;
+    background-repeat repeat;
     }
 
 
